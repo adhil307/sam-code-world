@@ -1,0 +1,50 @@
+.container{
+    background-color: yellow;
+    border: 5px solid black;
+    border-radius: 1rem;
+    margin: 10px;padding: 10px;
+}
+.counter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#count{
+    font-size: 9rem;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.head:hover{
+    color: red;
+    transform: rotate(180deg);
+}
+.head{
+    font-size: 4rem;
+    display: inline;
+}
+.btn{
+    color: white;
+    background-color: black;
+    margin: 25px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.blank{
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    display: inline;
+    margin-top: 70px;
+    margin-left: 20px;
+    animation: ani 2.5s linear infinite;
+}
+.tank{
+    display: flex;
+}
+@keyframes ani{
+    to{
+        transform: rotate(360deg);
+    }
+}
