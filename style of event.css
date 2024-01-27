@@ -1,0 +1,46 @@
+.log{
+    margin-left: 75%;
+}
+table{
+    margin-top: 4%;
+}
+#form h1{
+    margin-top: 10%;
+}
+#homepage{
+    display: inline;
+}
+#daraz{
+    display: inline;
+}
+#lk{
+    display: inline;
+}
+#com{
+    display: inline;
+}
+#styky{
+    position: sticky;
+    top: 0px;
+}
+#cursor:hover{
+    cursor: default;
+}
+.hover:hover{
+    color: blue;
+}
+.hover{
+    display: inline;
+}
+#home{
+    display: inline;
+}
+#const{
+    background-color: gray;
+    padding-bottom: 3%;
+}
+table{
+    background-image: url(log\ background.jpeg);
+    margin: 3%;
+    color: azure;
+}

@@ -1,0 +1,46 @@
+.xls{
+    background-color: black;
+    color: #ffffff;
+    height: 15%;
+}
+h1,ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 65%;
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 70%;
+    height: 6%;
+    margin: 12%;
+    color: blue;
+    cursor: zoom-in;
+}
+.pro{
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+    background-color: black;
+    color: black;
+    display: inline;
+}
+.rr{
+    display: inline-block;
+    text-align: center;
+    border: 4px;
+    border-color: red;
+    border-style: solid;
+}
+.la{
+    background-color: black;
+    color: #ffffff;
+    cursor: pointer;
+    text-align: center;
+}
